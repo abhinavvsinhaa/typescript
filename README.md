@@ -24,4 +24,4 @@ We specify TS, what type of value a variable will refer to
 
 ### Type inference
 
-TS figures out what type of value a variable refers to
+TS figures out what type of value a variable refers to.
